@@ -13,3 +13,11 @@ Cluster is accessible only from your VM in vcsa7.vua.cloud environment.
  
 
 Review instructions available on GitHub https://github.com/jstanesic/intro_to_devops_exam.
+
+chroot /host => command to access the host binaries.
+2. listanje stvari
+3. pokretanje i troubleshooting
+4. deployments i jobs
+5. storage
+6. reliabilty preformance autoscaling
+7. updates
